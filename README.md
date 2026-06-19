@@ -1,3 +1,21 @@
+<h2>🌍 Open Source Contribution</h2>
+<div style="border:1px solid #ddd; padding:15px; border-radius:8px; margin:10px 0; background:#f9f9f9;">
+  <h3>Facebook/Docusaurus</h3>
+  <p>
+    Pull Request: 
+    <a href="https://github.com/facebook/docusaurus/pull/11858" target="_blank">
+      Adds <code>no-window-eq-undefined</code> ESLint rule (#11858)
+    </a>
+  </p>
+  <p>
+    Proposed new ESLint rule for SSR correctness.  
+    <br><em>Status: Closed (but valuable contribution)</em>
+  </p>
+</div>
+
+
+---
+
 <div align="center">
   <h1 align="center">
     Docusaurus
